@@ -1,2 +1,2 @@
 # EBST
-Extending Binary Search Trees - Creating count, remove, max, and mix functions for when a string is stored.
+Extending Binary Search Trees - Creating count, remove, and max functions for when a string is stored.
